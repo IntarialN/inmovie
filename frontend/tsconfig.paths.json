@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@shared/*": ["../shared/*"],
+      "@modules/*": ["./src/modules/*"],
+      "@components/*": ["./src/components/*"],
+      "@components-ui/*": ["./src/components/ui-gamemode/src/components/*"],
+      "@assets-ui/*": ["./src/components/ui-gamemode/src/assets/*"],
+      "@assets/*": ["./src/assets/*"]
+    }
+  }
+}

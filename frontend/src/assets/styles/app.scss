@@ -1,0 +1,18 @@
+@import './fonts';
+@import './colors';
+
+* {
+  color: $gs90;
+  font-family: Manrope, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  
+  box-sizing: border-box;
+}
+
+body {
+  background: $bs08;
+  overflow-x: hidden;
+}

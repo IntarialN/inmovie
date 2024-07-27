@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "home": "Home",
+    "movies-and-shows": "Movies & Shows",
+    "support": "Support",
+    "subscribe": "Subscriptions"
+  }
+}
